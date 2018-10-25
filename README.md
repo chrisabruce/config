@@ -16,6 +16,8 @@ This is my config and setup instructions for my development machines.
 
 ### Base16
 
+### Base16-manager
+
 ### Ripgrep
 
 ### fzf
